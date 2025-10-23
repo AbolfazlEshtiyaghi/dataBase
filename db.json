@@ -1,0 +1,166 @@
+{
+  "headerDesktop": [
+    {
+      "id": 1,
+      "title": "ابوالفضل اشتیاقی",
+      "title1": "خانه",
+      "title2": "درباره من",
+      "title3": "سرویس ها",
+      "title4": "نمونه کار ها",
+      "title5": "تماس با من"
+    }
+  ],
+  "headerMobile": [
+    {
+      "id": 1,
+      "title": "ابوالفضل اشتیاقی",
+      "title1": "خانه",
+      "title2": "درباره من",
+      "title3": "سرویس ها",
+      "title4": "نمونه کار ها",
+      "title5": "تماس با من"
+    }
+  ],
+  "part1": [
+    {
+      "id": 1,
+      "title1": "سلام به سایت من ",
+      "title2": "خوش اومدید ",
+      "title3": "فرانت اند",
+      "title4mo": "فرانت اند",
+      "description": "   لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است ",
+      "description2": "  لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است ",
+      "buttonText1Des": "بیایید صحبت کنیم",
+      "buttonText2Des": "مشاهده پروژه ها",
+      "buttonText1Mo": "بیایید صحبت کنیم",
+      "buttonText2Mo": "مشاهد پروژه ها",
+      "imageIns": "images/social-icons/feather_instagram.svg",
+            "imageMyself":"https://wallpapercat.com/w/full/4/d/9/34457-1080x1920-samsung-1080p-fight-club-background-photo.jpg",
+      "imageLinkedin": "images/social-icons/feather_linkedin.svg",
+      "imageGithub": "images/social-icons/feather_github.svg",
+      "imageBascketball": "images/social-icons/feather_dribbble.svg",
+      "imageInsMo": "images/social-icons/feather_instagram.svg",
+      "imageLinkedinMo": "images/social-icons/feather_linkedin.svg",
+      "imageGithubMo": "images/social-icons/feather_github.svg",
+      "imageBascketballMo": "images/social-icons/feather_dribbble.svg"
+    }
+  ],
+  "part2": [
+    {
+      "id": 1,
+      "title": "تجربه",
+      "number": "1",
+      "image": "images/four/experience.svg",
+      "title2": "مشتریان راضی",
+      "number2": "0",
+      "image2": "images/four/happy-clients.svg",
+      "title3": "پروژه های موفق",
+      "number3": "3",
+      "image3": "images/four/projects-completed.svg",
+      "title4": "جایزه ها",
+      "number4": "1",
+      "image4": "images/four/awards-won.svg"
+    }
+  ],
+  "part3": [
+    {
+      "id": 1,
+      "title": "درباره من",
+      "image": "https://wallpapercat.com/w/full/4/d/9/34457-1080x1920-samsung-1080p-fight-club-background-photo.jpg",
+      "title2": "من ابوالفضال اشتیاقی هستم - برنامه نویس فرانت اند",
+      "title2Mo": " من ابوالفضال اشتیاقی هستم ",
+      "title3Mo": " برنامه نویس فرانت اند",
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد ",
+      "textBtn": "نمونه کارها"
+    }
+  ],
+  "mySkills": [
+    {
+      "id": 1,
+      "title": " مهارت های من ",
+      "titleHTML": "Html",
+      "numberHTML": "95%",
+      "titleNext": "Next.js",
+      "numberNext": "0%",
+      "titleJavaScript": "JavaScript",
+      "numberJavaScript": "90%",
+      "titleGit": "Git",
+      "numberGit": "70%",
+      "titleCss": "Css",
+      "numberCss": "97%",
+      "titleReactjs": "React.js",
+      "numberReactjs": "0%",
+      "titleFigma": "Figma",
+      "numberFigma": "0%",
+      "titleGithub": "Github",
+      "numberGithub": "70%"
+    }
+  ],
+  "aboutMe": [
+    {
+      "id": 1,
+      "title": "آنچه ارائه می دهم",
+      "title2": "طراحی UI/UX",
+      "image": "images/services/ui-design.svg",
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز ",
+      "title3": "توسعه وب",
+      "image2": "images/services/web-dev.svg",
+      "description2": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز ",
+      "title4": "سئو ",
+      "image3": "images/services/seo.svg",
+      "description3": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز "
+    }
+  ],
+  "purpleCard": [
+    {
+      "id": 1,
+      "title": " آیا پروژه ای در ذهن دارید؟",
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است",
+      "textBtn": "تماس با من"
+    }
+  ],
+  "Three": [
+    {
+      "id": 1,
+      "title": "پروژههای اخیر",
+      "title1": "وبسایت فروشگاهی",
+      "title2": "Exo.ir",
+      "title3": "Html,Tailwind Css,js",
+      "titleBtn": "مشاهده ",
+      "image": "images/3card-project/Exo.ir.png",
+      "title4": "وبسایت",
+      "title5": "چای گلستان",
+      "image2": "images/3card-project/golestan.png",
+      "title6": " وبسایت فروشگاهی",
+      "title7": "Dastresi",
+      "title8": "Html,Css",
+      "image3": "images/3card-project/dastresi.png"
+    }
+  ],
+  "slider": [
+    {
+      "id": 1,
+      "title": "مشتریان راضی ",
+      "titleProjectName": "نام پروژه",
+      "description": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است و برای شرایط فعلی تکنولوژی مورد نیاز و کاربردهای متنوع با هدف بهبود ابزارهای کاربردی می باشد ",
+      "personName": "نام مشتری",
+      "personSide": "سمت مشتری",
+      "image": ""
+    }
+  ],
+  "form": [
+    {
+      "id": 1,
+      "title": "تماس با من",
+      "titelinp1": "نام",
+      "titelinp2": "فامیل",
+      "titelinp3": "ایمیل",
+      "titelinp4": "تلفن",
+      "titelinp5": "پیام شما",
+      "titelBtn1": " ارسال پیام"
+    }
+  ],
+  "footer":[
+    {"id":1,"title":"خانه","title2":"درباره من","title3":"سرویس ها","title4":"نمونه کار ها","title5":"تماس با من","titleend":"Abolfazl Eshtiyaghi","icon1":"images/social-icons/feather_instagram.svg","icon2":"images/social-icons/feather_linkedin.svg","icon3":"images/social-icons/feather_github.svg","icon4":"images/social-icons/feather_dribbble.svg"}
+  ]
+}
